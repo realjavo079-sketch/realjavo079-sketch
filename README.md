@@ -23,7 +23,7 @@ I'm Javohir, a passionate developer interested in building modern, useful and in
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javohirshavkatov&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/javohirshavkatov
+- GitHub: https://github.com/realjavo079-sketch
 
 ---
 ⭐ Thanks for visiting my profile!
