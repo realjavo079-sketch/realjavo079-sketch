@@ -1,37 +1,29 @@
-###  I'm Javohir Shavkatov Kamoladdin o'g'li 👋
+# 👋 Hi, I'm Javohir Shavkatov
 
-<p align="center">
-  
+### 💻 Aspiring Software Developer
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hii%20I'm%20Javohir_Shavkatov%20Welcome%20to%20my%20GitHub%20profile!&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
-</p>
+Welcome to my GitHub profile!
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
+I'm Javohir, a passionate developer interested in building modern, useful and innovative applications.
 
+### 🚀 About Me
+- 🌱 Always learning new technologies
+- 💻 Interested in software development
+- 🎯 Focused on improving my coding skills
+- 🤝 Open to collaboration
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+Mentor" />
-</p>
+### 🛠️ Technologies & Tools
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-## 👨‍💻  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,pandas,numpy,sklearn,github,vscode,mysql,postgres,ai&perline=14" width="100%" />
-</p>
+### 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javohirshavkatov&show_icons=true&theme=tokyonight)
 
-<div align="center">
+### 📫 Connect With Me
+- GitHub: https://github.com/javohirshavkatov
 
-## 📊 GitHub Analytics
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
-</p>
+---
+⭐ Thanks for visiting my profile!
